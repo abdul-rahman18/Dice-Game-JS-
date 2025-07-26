@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    font-family: cursive;
+    color: coral;
+    font-weight: bolder;
+}
+
+.dice {
+    display: inline-block;
+    font-family: fantasy;
+    padding: 50px;
+    color: black;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+footer {
+    color: black;
+    font-size: larger;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h3 {
+    font-size: 30px;
+}
